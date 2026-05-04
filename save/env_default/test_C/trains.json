@@ -1,0 +1,12 @@
+{
+    "TR_99BE9A": {
+        "name": "T3000",
+        "number_rule": "T3###",
+        "allowed_grades_up": [
+            "all"
+        ],
+        "allowed_grades_down": [
+            "all"
+        ]
+    }
+}

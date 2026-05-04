@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.8.4, SVG Export Plug-In . SVG Version: 2.1.1 Build 6)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: red;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <polygon class="st0" points="53.07 16.1 47.41 10.44 31.51 26.34 15.61 10.44 9.96 16.1 25.86 32 9.96 47.9 15.61 53.56 31.51 37.66 47.41 53.56 53.07 47.9 37.17 32 53.07 16.1"/>
+</svg>

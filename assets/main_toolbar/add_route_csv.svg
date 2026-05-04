@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.8.4, SVG Export Plug-In . SVG Version: 2.1.1 Build 6)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 22.5px;
+        font-weight: 700;
+      }
+
+      .st0, .st3 {
+        fill: #110460;
+      }
+
+      .st4 {
+        fill: #477f4e;
+        stroke-miterlimit: 10;
+      }
+
+      .st4, .st2, .st3 {
+        stroke: #fff;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st2, .st3 {
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st4" points="59 28 36 28 36 5 28 5 28 28 5 28 5 36 28 36 28 59 36 59 36 36 59 36 59 28"/>
+  <g class="st1">
+    <g class="st1">
+      <g class="st1">
+        <text class="st0" transform="translate(9 58.37)"><tspan x="0" y="0">.csv</tspan></text>
+      </g>
+    </g>
+    <g class="st1">
+      <g class="st1">
+        <text class="st2" transform="translate(9 58.37)"><tspan x="0" y="0">.csv</tspan></text>
+      </g>
+    </g>
+  </g>
+  <polygon class="st3" points="59 40.04 49.62 35.16 49.62 38.16 30.87 38.16 30.87 41.91 49.62 41.91 49.62 44.91 59 40.04"/>
+</svg>

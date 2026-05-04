@@ -1,0 +1,76 @@
+{
+    "weekday_morning": {
+        "cycle_min": 30,
+        "frequencies_up": {
+            "test_B_02": 1,
+            "test_B_01": 1,
+            "test_B_00": 2
+        },
+        "frequencies_down": {
+            "test_B_502": 1,
+            "test_B_501": 1,
+            "test_B_500": 2
+        }
+    },
+    "weekday_night": {
+        "cycle_min": 30,
+        "frequencies_up": {
+            "test_B_02": 1,
+            "test_B_01": 1,
+            "test_B_00": 1
+        },
+        "frequencies_down": {
+            "test_B_502": 1,
+            "test_B_501": 1,
+            "test_B_500": 1
+        }
+    },
+    "weekday_offpeak": {
+        "cycle_min": 30,
+        "frequencies_up": {
+            "test_B_02": 1,
+            "test_B_01": 1,
+            "test_B_00": 1
+        },
+        "frequencies_down": {
+            "test_B_502": 1,
+            "test_B_501": 1,
+            "test_B_500": 1
+        }
+    },
+    "weekday_latenight": {
+        "cycle_min": 30,
+        "frequencies_up": {
+            "test_B_01": 1,
+            "test_B_00": 1
+        },
+        "frequencies_down": {
+            "test_B_501": 1,
+            "test_B_500": 1
+        }
+    },
+    "weekend_offpeak": {
+        "cycle_min": 30,
+        "frequencies_up": {
+            "test_B_02": 1,
+            "test_B_01": 1,
+            "test_B_00": 1
+        },
+        "frequencies_down": {
+            "test_B_502": 1,
+            "test_B_501": 1,
+            "test_B_500": 1
+        }
+    },
+    "weekend_latenight": {
+        "cycle_min": 30,
+        "frequencies_up": {
+            "test_B_01": 1,
+            "test_B_00": 1
+        },
+        "frequencies_down": {
+            "test_B_501": 1,
+            "test_B_500": 1
+        }
+    }
+}

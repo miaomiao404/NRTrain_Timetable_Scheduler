@@ -1,0 +1,12 @@
+{
+    "TR_1AF81B": {
+        "name": "T2000",
+        "number_rule": "T2###",
+        "allowed_grades_up": [
+            "all"
+        ],
+        "allowed_grades_down": [
+            "all"
+        ]
+    }
+}

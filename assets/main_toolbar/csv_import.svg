@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 29.8.4, SVG Export Plug-In . SVG Version: 2.1.1 Build 6)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st0, .st1 {
+        font-family: ArialMT, Arial;
+        font-size: 24px;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st3 {
+        stroke: #fff;
+        stroke-width: .5px;
+      }
+
+      .st1, .st3 {
+        fill: #110460;
+      }
+    </style>
+  </defs>
+  <g class="st2">
+    <text class="st1" transform="translate(6.67 41.4)"><tspan x="0" y="0">.csv</tspan></text>
+    <text class="st0" transform="translate(6.67 41.4)"><tspan x="0" y="0">.csv</tspan></text>
+  </g>
+  <polygon class="st3" points="60 25 50 19.8 50 23 30 23 30 27 50 27 50 30.2 60 25"/>
+</svg>

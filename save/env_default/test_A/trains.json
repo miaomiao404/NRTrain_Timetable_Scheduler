@@ -1,0 +1,12 @@
+{
+    "TR_84B832": {
+        "name": "T1000",
+        "number_rule": "T1###",
+        "allowed_grades_up": [
+            "all"
+        ],
+        "allowed_grades_down": [
+            "all"
+        ]
+    }
+}
